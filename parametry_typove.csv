@@ -1,0 +1,389 @@
+"model"	"type_id"	"id"	"kategorie"	"rodina"	"typ"	"t_aed_klasifikace"	"t_aed_system"	"t_oznaceni_typu"	"t_popis"
+TERN_1201_DSP_D11_SO01_FAC	"3084172"	"3172004"	Panely obvodového pláště	BA_blinds box	BA_blinds box	TZKO	OV	"05"	Fasádní zateplovací systém 200 mm + kovový panel na roštu + žaluzie
+TERN_1201_DSP_D11_SO01_FAC	"3880859"	"3879871"	Panely obvodového pláště	BA_blinds box_TERRACE FAKE	BA_blinds box_TERRACE FAKE	TZKO	VOO	"02"	Fasádní zateplovací systém 200 mm + kovový panel na roštu
+TERN_1201_DSP_D11_SO01_FAC	"3390108"	"3172361"	Panely obvodového pláště	BA_blinds box_TOP FLOOR	BA_blinds box_TOP FLOOR	TZKO	VOO		Fasádní zateplovací systém 200 mm + kovový panel na roštu + žaluzie
+TERN_1201_DSP_D11_SO01_FAC	"3827784"	"3280481"	Panely obvodového pláště	BA_blinds box_TOP FLOOR_B	BA_blinds box_TOP FLOOR_B	TZKO	VOO		Fasádní zateplovací systém 200 mm + kovový panel na roštu + žaluzie
+TERN_1201_DSP_D11_SO01_FAC	"2281845"	"3967424"	Dveře	BA_Door_IntDbl	Corridor_glazed_2000x2100	VOE	D	"46"	Dveře jednokřídlé
+TERN_1201_DSP_D11_SO01_FAC	"1936859"	"3972029"	Dveře	BA_Door_IntSgl	Escape_1000x2100	VOE	D	"31"	Dveře jednokřídlé
+TERN_1201_DSP_D11_SO01_FAC	"1936861"	"3970209"	Dveře	BA_Door_IntSgl	Escape_1100x2100	VOE	D	"32"	Dveře jednokřídlé + povrchová úprava perforovaný kovový panel
+TERN_1201_DSP_D11_SO01_FAC	"4224195"	"3971954"	Dveře	BA_Door_IntSgl	Escape_1100x2100_ZASTENA	STE	D	"62"	Dveře jednokřídlé + povrchová úprava perforovaný kovový panel
+TERN_1201_DSP_D11_SO01_FAC	"3645488"	"3645545"	Dveře	BA_doors_garage	BA_doors_garage	VOE	VOO	"61"	Garážové vrata - kovový povrch
+TERN_1201_DSP_D11_SO01_FAC	"3031285"	"3171947"	Panely obvodového pláště	BA_GRC panel	BA_GRC panel	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3130106"	"3128682"	Panely obvodového pláště	BA_GRC panel - framing	BA_GRC panel - framing	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3382292"	"3382342"	Panely obvodového pláště	BA_GRC panel - framing_ATTIC	BA_GRC panel - framing_ATTIC	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3804633"	"3425744"	Panely obvodového pláště	BA_GRC panel - framing_ATTIC B	BA_GRC panel - framing_ATTIC B	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3892747"	"3383182"	Panely obvodového pláště	BA_GRC panel - framing_ATTIC C	BA_GRC panel - framing_ATTIC C	STE	SLADBA		Vz. m. 362mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3468070"	"3473335"	Panely obvodového pláště	BA_GRC paneL_600	BA_GRC paneL_600	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"4100695"	"4099653"	Panely obvodového pláště	BA_GRC paneL_corner terrace	BA_GRC paneL_corner terrace	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3100306"	"3105858"	Panely obvodového pláště	BA_GRC rhymes_2700	BA_GRC rhymes_2700	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobeton 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3328649"	"3327288"	Panely obvodového pláště	BA_GRC rhymes_2700_PLASTER	BA_GRC rhymes_2700_PLASTER	STE	SKLADBA		Fasádní zateplovací systém 265 mm + ext. omítka 25 mm
+TERN_1201_DSP_D11_SO01_FAC	"3123431"	"3124520"	Panely obvodového pláště	BA_GRC rhymes_3000	BA_GRC rhymes_3000	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobeton 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3170802"	"3261115"	Panely obvodového pláště	BA_GRC_corner typical	BA_GRC_corner typical	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3808242"	"3425767"	Panely obvodového pláště	BA_GRC_corner typical_ATTIC	BA_GRC_corner typical_ATTIC	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3352796"	"3352946"	Panely obvodového pláště	BA_GRC_corner typical_FRONT	BA_GRC_corner typical_FRONT	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"4224103"	"3431981"	Panely obvodového pláště	BA_GRC_corner typical_FRONT_B	BA_GRC_corner typical_FRONT_B				Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3270171"	"3315464"	Panely obvodového pláště	BA_GRC_corner typical_PARTER	BA_GRC_corner typical_PARTER	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m. 162mm + sklováknobetonový obklad 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3500669"	"3493090"	Panely obvodového pláště	BA_LOP_panel_1100	BA_LOP_panel_1100	LOP	SOUC	"02"	Tep. i. 200 mm + hliníkový panel
+TERN_1201_DSP_D11_SO01_FAC	"3477901"	"3454916"	Panely obvodového pláště	BA_LOP_shadowgap	BA_LOP_shadowgap	LOP	SOUC		Nika - tep. i. + hliníkový povrch
+TERN_1201_DSP_D11_SO01_FAC	"3506236"	"3494014"	Panely obvodového pláště	BA_LOP_shadowgap_150	BA_LOP_shadowgap_150	LOP	SOUC		Nika - tep. i. + hliníkový porvch
+TERN_1201_DSP_D11_SO01_FAC	"4115387"	"4137037"	Obecné modely	BA_okoli_EA	BA_okoli_EA				
+TERN_1201_DSP_D11_SO01_FAC	"4098701"	"4098703"	Obecné modely	BA_okoli_NO	BA_okoli_NO				
+TERN_1201_DSP_D11_SO01_FAC	"3811772"	"3814566"	Obecné modely	BA_parapet jih	BA_parapet jih	OBKL2	SKLADBA		
+TERN_1201_DSP_D11_SO01_FAC	"3190816"	"3191500"	Panely obvodového pláště	BA_plaster panel	BA_plaster panel	STE	SKLADBA		Fasádní zateplovací systém 265 mm + ext. omítka 25 mm
+TERN_1201_DSP_D11_SO01_FAC	"4183672"	"3199538"	Panely obvodového pláště	BA_plaster parapet	BA_plaster parapet				
+TERN_1201_DSP_D11_SO01_FAC	"4096826"	"4097765"	Obecné modely	BA_tree_elevation	BA_tree_elevation				
+TERN_1201_DSP_D11_SO01_FAC	"4094403"	"4094405"	Obecné modely	BA_WE	BA_WE				
+TERN_1201_DSP_D11_SO01_FAC	"3667344"	"3505341"	Okna	BA_window front_450x2925	BA_window front_450x2925	LOP	SOUC	"63"	Otevírka
+TERN_1201_DSP_D11_SO01_FAC	"3465630"	"3464485"	Okna	BA_window typical_1050x3000	BA_window typical_1050x3000	VOE	OK	"62"	okenní modul + bez otevírky
+TERN_1201_DSP_D11_SO01_FAC	"4165695"	"4056047"	Okna	BA_window typical_1600x2675	BA_window typical_1600x2675	LOP	SOUC	"64"	okenní modul + otevírka
+TERN_1201_DSP_D11_SO01_FAC	"3193708"	"4190029"	Okna	BA_window typical_1650x2150	BA_window typical_1650x2150	VOE	VOO	"61"	Okenní modul + otevírka + parapet + fasádní zateplovací systém 200 mm s ext. omítka 25 mm
+TERN_1201_DSP_D11_SO01_FAC	"3054343"	"3171943"	Okna	BA_window typical_1650x3000	BA_window typical_1650x3000	VOE	OK		okenní modul + otevírka
+TERN_1201_DSP_D11_SO01_FAC	"3117611"	"3171979"	Okna	BA_window typical_3050x3000	BA_window typical_3050x3000	VOE	OK	"60"	okenní modul + bez otevírky
+TERN_1201_DSP_D12_SO01_SKR	"4210763"	"4210767"	Konstrukční sloupy	Betonový kruhový sloup	Pilota ø 900 mm	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4674460"	"4036309"	Konstrukční sloupy	Betonový obdélníkový sloup	"450 x 450mm"	KSL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4424994"	"3988902"	Konstrukční sloupy	Betonový obdélníkový sloup	"500 x 500mm"	KSL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4426282"	"4426238"	Konstrukční sloupy	Betonový obdélníkový sloup	"500 x 500mm pilir"	KSL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4422993"	"3985721"	Konstrukční sloupy	Betonový oválný sloup1	K_sl_zb_400x1220_pp_oval	KSL	ZB		
+TERN_1201_DSP_D144_SO01_ESI	"6858686"	"6937095"	Tvarovky kabelové lávky	Busway SE Canalis KS - AE - Flange Feed Unit	Aluminium 4P 0400 A	KABT	SIL_LAV		Flange Feed Unit
+TERN_1201_DSP_D144_SO01_ESI	"6868198"	"6884579"	Tvarovky kabelové lávky	Busway SE Canalis KS - ET - Straight Feeder	Aluminium 4P 0400 A	KABT	SIL_LAV		Straight Feeder
+TERN_1201_DSP_D144_SO01_ESI	"6884034"	"6890913"	Elektrické vybavení	Busway SE Canalis Tap-off unit - KS offer - for circuit breaker	"0100 A - for modular devices"	KABZ	SIL		Tap-off Unit - KS offer - for circuit breaker
+TERN_1201_DSP_D144_SO01_ESI	"6985720"	"6992732"	Zabezpečovací zařízení	CCTV_Kamery	Kamera BULET	KABK	ESL		Kamera
+TERN_1201_DSP_D144_SO01_ESI	"6985716"	"6993280"	Zabezpečovací zařízení	CCTV_Kamery	Kamera DOME-strop	KABK	ESL		Kamera
+TERN_1201_DSP_D143_SO01_VZT	"1782068"	"1810275"	Obecné modely	Cmp_AirHeater_Symbol	General				
+TERN_1201_DSP_D143_SO01_VZT	"1782035"	"1810273"	Obecné modely	Cmp_Fan_Symbol	General				
+TERN_1201_DSP_D143_SO01_VZT	"1782009"	"1810271"	Obecné modely	Cmp_HeatRecoveryUnit_Symbol	Rotation				
+TERN_1201_DSP_D11_SO01_FAC	"3915524"	"3551512"	Panely obvodového pláště	Door_double	Door_double	LOP	SOUC		Dveře dvoukřídlé
+TERN_1201_DSP_D11_SO01_FAC	"3973849"	"3564543"	Panely obvodového pláště	Door_single	Door_single	LOP	SOUC		Dveře jednokřídlé
+TERN_1201_DSP_D11_SO01_FAC	"3997849"	"3904042"	Panely obvodového pláště	Door_single_structural_ESCAPE	Door_single_structural_ESCAPE	LOP	SOUC		Opakní zasklení
+TERN_1201_DSP_D144_SO01_ESI	"6987615"	"7174152"	Komunikační zařízení	DT_Interkom	Interkom bez kamery s 6ti tlačítky	KABK	ESL		
+TERN_1201_DSP_D11_SO01_ASR	"5622555"	"5622574"	Dveře	dveře celoskleněné bezrámové jednokřídlové	křídlo celoprosklené 900/2100, otvor 1000/2200	VOI	D	D.43	
+TERN_1201_DSP_D11_SO01_ASR	"5031779"	"4438668"	Dveře	dveře vnitřní dvojkřídlové do obložkové zárubně	dveře dvojkřídlové plné 1200x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.36	
+TERN_1201_DSP_D11_SO01_ASR	"4240511"	"4120230"	Dveře	dveře vnitřní dvojkřídlové do obložkové zárubně	dveře dvojkřídlové plné 1400x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.25	
+TERN_1201_DSP_D11_SO01_ASR	"4962908"	"5034150"	Dveře	dveře vnitřní dvojkřídlové do obložkové zárubně	dveře dvojkřídlové plné 1600x2100 s obložkovou zárubní, příčka 150	VOI	D	D.35	
+TERN_1201_DSP_D11_SO01_ASR	"5614863"	"5680048"	Dveře	dveře vnitřní dvojkřídlové do obložkové zárubně	dveře dvojkřídlové plné 1600x2300 s obložkovou zárubní, příčka 145 mm	VOI	D	D.42	
+TERN_1201_DSP_D11_SO01_ASR	"5615740"	"4241027"	Dveře	dveře vnitřní dvojkřídlové do obložkové zárubně	dveře dvojkřídlové plné 1600x2300 s obložkovou zárubní, příčka 150	VOI	D	D.43	
+TERN_1201_DSP_D11_SO01_ASR	"4113240"	"4113269"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 1000x2100 s obložkovou zárubní, příčka 100 mm	VOI	D	D.21	
+TERN_1201_DSP_D11_SO01_ASR	"4583026"	"5089846"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 1000x2100 s obložkovou zárubní, stěna 250 mm 2	VOI	D	D.31	
+TERN_1201_DSP_D11_SO01_ASR	"4438661"	"4126132"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 1100x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.27	
+TERN_1201_DSP_D11_SO01_ASR	"5113510"	"5239341"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 1100x2100 s obložkovou zárubní, stěna 200 mm	VOI	D	D.38	
+TERN_1201_DSP_D11_SO01_ASR	"4581220"	"4581524"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 1100x2100 s obložkovou zárubní, stěna 250 mm	VOI	D	D.30	
+TERN_1201_DSP_D11_SO01_ASR	"4014859"	"4014761"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 700x2100 s obložkovou zárubní, příčka 100 mm	VOI	D	D.19	
+TERN_1201_DSP_D11_SO01_ASR	"4438636"	"4126414"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 700x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.26	
+TERN_1201_DSP_D11_SO01_ASR	"5652304"	"4113391"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 800x2100 s obložkovou zárubní, příčka 100 mm	VOI	D	D.44	
+TERN_1201_DSP_D11_SO01_ASR	"4009732"	"4009753"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 800x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.17	
+TERN_1201_DSP_D11_SO01_ASR	"4112983"	"4112999"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 900x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.20	
+TERN_1201_DSP_D11_SO01_ASR	"5346800"	"5347071"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 900x2100 s obložkovou zárubní, stěna 240 mm	VOI	D	D.39	
+TERN_1201_DSP_D11_SO01_ASR	"4589193"	"4589614"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	dveře plné 900x2100 s obložkovou zárubní, stěna 250 mm 2	VOI	D	D.32	
+TERN_1201_DSP_D11_SO01_ASR	"4441569"	"4024857"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	INV dveře plné 800x2100 s obložkovou zárubní, příčka 150 mm	VOI	D	D.29	
+TERN_1201_DSP_D11_SO01_ASR	"5045912"	"4127532"	Dveře	dveře vnitřní jednokřídlové do obložkové zárubně	INV dveře plné 800x2100 s obložkovou zárubní, příčka 200 mm	VOI	D	D.37	
+TERN_1201_DSP_D11_SO01_ASR	"5590484"	"5590522"	Dveře	dveře vnitřní jednokřídlové do rámové zárubně	dveře vnitřní plné 800x2100 s rámovou zárubní tl. 145 mm	VOE	D	D.40	
+TERN_1201_DSP_D144_SO01_ESI	"6958813"	"6992571"	Zabezpečovací zařízení	EKV_Čtečka	EKV_čtečka	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6958811"	"7004519"	Zabezpečovací zařízení	EKV_Čtečka	EKV_čtečka_příprava	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6992540"	"6992559"	Zabezpečovací zařízení	EKV_Elektro zámek	Elektromechanický zámek	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"7005694"	"7004525"	Zabezpečovací zařízení	EKV_Elektro zámek	Elektromechanický zámek-příprava	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6931079"	"6931351"	Elektrické vybavení	Electrical_Switchgear_Schneider-Electric_MV-switchgear_SM6-24kV	GBC-A-Current  and/or voltage measurement unit	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6931067"	"6931109"	Elektrické vybavení	Electrical_Switchgear_Schneider-Electric_MV-switchgear_SM6-24kV	QM-Fuse switch combination Unit	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6903455"	"6903512"	Elektrické vybavení	Electrical_Transformers_Schneider-Electric_Trihal-Dry-Transformer_17.5kV-and-24kV_low-voltage (2020)	Trihal A0Ak 630 kVA	KABZ	SIL		Transformer
+TERN_1201_DSP_D144_SO01_ESI	"6152894"	"7061564"	Elektroinstalační trubky	Elektroinstalační trubka s tvarovkami	Lineární teplotní detektor				
+TERN_1201_DSP_D11_SO01_FAC	"12615"	"3100799"	Panely obvodového pláště	Empty System Panel	Empty	STE	SKLADBA		Prázdný panel
+TERN_1201_DSP_D144_SO01_ESI	"6962245"	"7056809"	Požární poplachová zařízení	EPS_Bodový hlásič	APH v dutině podhledu s paralelní signalizací	KABK	EPS		Požární hlásič
+TERN_1201_DSP_D144_SO01_ESI	"6962241"	"7051448"	Požární poplachová zařízení	EPS_Bodový hlásič	Multisenzorový hlásič	KABK	EPS		Požární hlásič
+TERN_1201_DSP_D144_SO01_ESI	"7101829"	"7101844"	Požární poplachová zařízení	EPS_tabla+ústředna	Ovládací a zobrazovací panel CIP	KABK	EPS		
+TERN_1201_DSP_D144_SO01_ESI	"7101833"	"7101857"	Požární poplachová zařízení	EPS_tabla+ústředna	Ústředna EPS	KABK	EPS		
+TERN_1201_DSP_D144_SO01_ESI	"7049561"	"7049581"	Požární poplachová zařízení	EPS_Tlačítkový hlásič	Tlačítkový hlásič	KABK	EPS		Požární hlásič
+TERN_1201_DSP_D144_SO01_ESI	"7079328"	"7098518"	Požární poplachová zařízení	ERO_mikrofonní stanice	Mikrofonní stanice	KABK	EPS		
+TERN_1201_DSP_D144_SO01_ESI	"7070284"	"7101867"	Požární poplachová zařízení	ERO_ústředna	Ústředna ERO	KABK	EPS		
+TERN_1201_DSP_D144_SO01_ESI	"6911157"	"6911173"	Elektrické vybavení	EXP_UPS_200kVA_400V_3Ph (2019)	E3MUPS200KHS	KABZ	SIL		Easy UPS 3M, 200kVA, 400V, 3Ph In 3Ph Out, UPS for external Batteries
+TERN_1201_DSP_D144_SO01_ESI	"6009326"	"6911184"	Elektrické vybavení	EXP_UPS_Battery (2019)	E3MCBC10B	KABZ	SIL		Easy UPS 3M Classic Battery Cabinet with Battteries, IEC, 1000mm
+TERN_1201_DSP_D11_SO01_FAC	"4102617"	"4102619"	Obecné modely	Generic Models 1	Generic Models 1				
+TERN_1201_DSP_D11_SO01_ASR	"4983137"	"4987239"	Truhlářské výrobky	Hasící přístroj	Hasící přístroj	TZKO	OV		
+TERN_1201_DSP_D11_SO01_ASR	"5963575"	"5963709"	Instalační zařizovací předměty	HL_Podlahova vpust_HL310NPrG-A-160411	HL310NPrG				Podlahové vpustě
+TERN_1201_DSP_D144_SO01_ESI	"5350508"	"6941190"	Kabelové lávky	Kabelová lávka s tvarovkami	Kabelová lávka se žlabem	KABT	SIL_LAV	KZ02	
+TERN_1201_DSP_D144_SO01_ESI	"7185724"	"6950810"	Kabelové lávky	Kabelová lávka s tvarovkami	Kabelová lávka se žlabem ESL	KABT	ESL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185769"	"7128183"	Kabelové lávky	Kabelová lávka s tvarovkami	Kabelová lávka se žlabem MAR	KABT	MAR_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185798"	"6893934"	Kabelové lávky	Kabelová lávka s tvarovkami	Kabelová lávka se žlabem SIL	KABT	SIL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185743"	"6892210"	Kabelové lávky	Kabelová lávka s tvarovkami	Žebříková kabelová lávka ESL	KABT	ESL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185756"	"6892212"	Kabelové lávky	Kabelová lávka s tvarovkami	Žebříková kabelová lávka ESL pož	KABT	ESL_PLAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185785"	"6892709"	Kabelové lávky	Kabelová lávka s tvarovkami	Žebříková kabelová lávka MAR	KABT	MAR_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185818"	"6892158"	Kabelové lávky	Kabelová lávka s tvarovkami	Žebříková kabelová lávka SIL	KABT	SIL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7185645"	"6892170"	Kabelové lávky	Kabelová lávka s tvarovkami	Žebříková kabelová lávka SIL pož	KABT	SIL_PLAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186074"	"7128425"	Tvarovky kabelové lávky	M_Horizontální křížení kanálů	Poloměr 300mm MAR	KABT	MAR_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186201"	"6894364"	Tvarovky kabelové lávky	M_Horizontální křížení kanálů	Poloměr 300mm SIL	KABT	SIL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186066"	"6950827"	Tvarovky kabelové lávky	M_Horizontální ohyb kanálu	Standardní ESL	KABT	ESL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186149"	"7128277"	Tvarovky kabelové lávky	M_Horizontální ohyb kanálu	Standardní MAR	KABT	MAR_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186339"	"6895013"	Tvarovky kabelové lávky	M_Horizontální ohyb kanálu	Standardní SIL	KABT	SIL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186058"	"6950945"	Tvarovky kabelové lávky	M_Horizontální spoj T kanálů	Poloměr 300mm ESL	KABT	ESL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186083"	"7128274"	Tvarovky kabelové lávky	M_Horizontální spoj T kanálů	Poloměr 300mm MAR	KABT	MAR_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186220"	"6894354"	Tvarovky kabelové lávky	M_Horizontální spoj T kanálů	Poloměr 300mm SIL	KABT	SIL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"4650262"	"7061584"	Tvarovky elektroinstalační trubky	M_Koleno elektroinstalační trubky, ocel	Standardní				
+TERN_1201_DSP_D144_SO01_ESI	"7186916"	"7186135"	Tvarovky kabelové lávky	M_Redukce kanálu	Standardní MAR	KABT	MAR_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7186920"	"7186207"	Tvarovky kabelové lávky	M_Redukce kanálu	Standardní SIL	KABT	SIL_LAV		
+TERN_1201_DSP_D144_SO01_ESI	"7041520"	"7047249"	Elektrická tělesa	MaR značka	MaR ovládaná technologie UTCH	KABK	MAR		
+TERN_1201_DSP_D144_SO01_ESI	"7041518"	"7047281"	Elektrická tělesa	MaR značka	MaR ovládaná technologie VZT	KABK	MAR	"21"	
+TERN_1201_DSP_D144_SO01_ESI	"7145553"	"7145473"	Elektrická tělesa	MaR_box IRC	Box s IRC regulátorem			"4"	
+TERN_1201_DSP_D144_SO01_ESI	"7041515"	"7135139"	Elektrická tělesa	MaR_Rozvaděče	Rozvaděč MAR_600x2000x400	KABZ	MAR		
+TERN_1201_DSP_D11_SO01_FAC	"4064970"	"4064966"	Obecné modely	Modelový text	"1000mm Arial_REKLAMA"	OST	ZV		Ocelová kce. + kovové písmo
+TERN_1201_DSP_D11_SO01_ASR	"5348815"	"5987265"	Schodiště	Monolitické schodiště	Betonové				
+TERN_1201_DSP_D11_SO01_ASR	"5864979"	"5864981"	Truhlářské výrobky	Nádrž na kapaliny 640 l	Nádrž na kapaliny 640 l				
+TERN_1201_DSP_D144_SO01_ESI	"7071902"	"7089895"	Požární poplachová zařízení	Nástěnný reproduktor 6W	WA 06-165/T-EN54	KABK	EPS		A/B-line wall speaker for Voice Alarm EN54
+TERN_1201_DSP_D144_SO01_ESI	"7091969"	"7091968"	Osvětlovací tělesa	NP Piktogram (2019)	N1D	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7149527"	"7149526"	Osvětlovací tělesa	NP Piktogram (2019)	N2LP	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6323138"	"7091955"	Osvětlovací tělesa	NP Piktogram (2019)	N4D	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7091958"	"7091957"	Osvětlovací tělesa	NP Piktogram (2019)	N4LP	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7091989"	"7091988"	Osvětlovací tělesa	NP Piktogram (2019)	N5D	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7151090"	"7151081"	Osvětlovací tělesa	NP Piktogram (2019)	N8P	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7151960"	"7151953"	Osvětlovací tělesa	NP Piktogram (2019)	NVD	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7158277"	"7158268"	Osvětlovací tělesa	NP Piktogram (2019)	SCHLN	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7091985"	"7091984"	Osvětlovací tělesa	NP Piktogram (2019)	SCHPD	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7159355"	"7159346"	Osvětlovací tělesa	NP Piktogram (2019)	SCHPN	KABK	SIL		
+TERN_1201_DSP_D11_SO01_FAC	"3543644"	"3545059"	Stěny	Obvodový plášť	BA_facade_LOP_NORTH_parter	LOP		"04"	
+TERN_1201_DSP_D11_SO01_FAC	"3440124"	"3440914"	Stěny	Obvodový plášť	BA_facade_LOP_NORTH_structural	LOP		"04"	
+TERN_1201_DSP_D11_SO01_FAC	"3490528"	"3491149"	Stěny	Obvodový plášť	BA_facade_LOP_NORTH_typical floor	LOP	SOUC		Lehký obvodový plášť
+TERN_1201_DSP_D11_SO01_FAC	"3755190"	"3335413"	Stěny	Obvodový plášť	BA_facade_LOP_SOUTH_lobby	LOP	SOUC	"04"	
+TERN_1201_DSP_D11_SO01_FAC	"3652477"	"3653689"	Stěny	Obvodový plášť	BA_facade_LOP_terrace	LOP		"02"	
+TERN_1201_DSP_D11_SO01_FAC	"3030117"	"3100798"	Stěny	Obvodový plášť	BA_fasada GRC	LOP	SOUC	"01"	Lehký obvodový plášť
+TERN_1201_DSP_D11_SO01_FAC	"334"	"3460846"	Panely obvodového pláště	Obvodový plášť	Curtain_Wall-Empty	LOP	SOUC		Lehký obvodový plášť
+TERN_1201_DSP_D11_SO01_FAC	"29096"	"4189908"	Panely obvodového pláště	Obvodový plášť	Curtain_Wall-Exterior_Glazing				
+TERN_1201_DSP_D11_SO01_ASR	"5537528"	"5536502"	Truhlářské výrobky	Oplechování atiky	ATIKA 435 mm	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5533421"	"5533642"	Truhlářské výrobky	Oplechování atiky	ATIKA 540 mm	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5732159"	"5732106"	Truhlářské výrobky	Oplechování atiky	ATIKA 565 mm	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5541583"	"5541493"	Truhlářské výrobky	Oplechování atiky	ATIKA 650 mm	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5538389"	"5538122"	Truhlářské výrobky	Oplechování atiky	ATIKA 675 mm	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5540839"	"5540609"	Truhlářské výrobky	Oplechování atiky	ATIKA 690 mm	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5666900"	"5665316"	Truhlářské výrobky	Oplechování_atiky__540_roh_vnitřní	Oplechování_atiky_roh_vnější	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5664114"	"5664258"	Truhlářské výrobky	Oplechování_atiky_540_roh_vnější	Oplechování_atiky_roh	TZKO	KV		
+TERN_1201_DSP_D11_SO01_ASR	"5734626"	"5733619"	Truhlářské výrobky	Oplechování_atiky_565_roh_vnější	Oplechování_atiky_roh	TZKO	KV		Oplechování atiky
+TERN_1201_DSP_D11_SO01_ASR	"5670531"	"5670537"	Truhlářské výrobky	Oplechování_atiky_675_roh_vnější	Oplechování_atiky_roh	TZKO	KV		Oplechování atiky
+TERN_1201_DSP_D11_SO01_ASR	"5673585"	"5673787"	Truhlářské výrobky	Oplechování_atiky_690_roh_vnější	Oplechování_atiky_roh	TZKO	KV		Oplechování atiky
+TERN_1201_DSP_D11_SO01_ASR	"4728702"	"4728704"	Parkování	Parkovací stání	Parkovací stání	NEVYKAZOVAT			
+TERN_1201_DSP_D141_SO01_ZTI	"2391098"	"2902913"	Instalační zařizovací předměty	PF_UN_Pluvia contact sheet_Geberit	default	TRBK	SK	Přivětrávací ventil HL 810	Geberit Pluvia contact sheet
+TERN_1201_DSP_D141_SO01_ZTI	"2391112"	"2637145"	Instalační zařizovací předměty	PF_UN_Pluvia roof outlet with contact sheet for gutters_Geberit	d56 12L/s	TRBK	SK	Vd	Geberit Pluvia roof outlet with contact sheet for gutters
+TERN_1201_DSP_D141_SO01_ZTI	"2391114"	"2644998"	Instalační zařizovací předměty	PF_UN_Pluvia roof outlet with contact sheet_Geberit (56 - 90mm)	d56 12L/s	TRBK	SK	Vd	Geberit Pluvia roof outlet with contact sheet
+TERN_1201_DSP_D141_SO01_ZTI	"2327287"	"2660341"	Instalační zařizovací předměty	Pisoár	Pisoár	TRBK	SK	Pi	Pisoár Duravit Starck 3 08272500001_0,75 l/hod
+TERN_1201_DSP_D144_SO01_ESI	"7073614"	"7081198"	Požární poplachová zařízení	Podhledový reproduktor 6W	DL-E 06-130_T-EN54	KABK	EPS		
+TERN_1201_DSP_D11_SO01_ASR	"5459085"	"5459083"	Podlahy	Podlaha	"1_ŽB_150"	PDI	ZB		Železobetonová konstrukce 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"5800733"	"5687384"	Podlahy	Podlaha	"1_ŽB_200"	PDI	ZB		Železobetonová konstrukce 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"3960909"	"4251221"	Podlahy	Podlaha	"2_KER_150"	PDI	SKLADBA		Podlahová skladba - povrchová úprava keramická dlažba, celk. tl. 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"3960829"	"4295052"	Podlahy	Podlaha	"2_LAM_150"	PDI	SKLADBA		Podlahová skladba - povrchová úprava laminát, celk. tl. 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"5655834"	"4296912"	Podlahy	Podlaha	"2_LAM_270"	PDI	SKLADBA		Podlahová skladba - povrchová úprava laminát, celk. tl. 270 mm
+TERN_1201_DSP_D11_SO01_ASR	"5612599"	"4299541"	Podlahy	Podlaha	"2_STĚRKA_150"	PDI	SKLADBA		Podlahová skladba - povrchová úprava epoxidová stěrka, celk. tl. 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"5524988"	"5524987"	Podlahy	Podlaha	"3_EPS_100"	PDE	SKLADBA		
+TERN_1201_DSP_D12_SO01_SKR	"4468684"	"4783412"	Podlahy	Podlaha	K_de_zb_1200_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4828647"	"4478329"	Podlahy	Podlaha	K_de_zb_1500_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4829289"	"4631088"	Podlahy	Podlaha	K_de_zb_1750_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4428893"	"4230515"	Podlahy	Podlaha	K_de_zb_200_np	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4468452"	"4242589"	Podlahy	Podlaha	K_de_zb_200_pp	HL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4545222"	"4545214"	Podlahy	Podlaha	K_de_zb_2150_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4461385"	"4075080"	Podlahy	Podlaha	K_de_zb_220_pp	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4611868"	"4069771"	Podlahy	Podlaha	K_de_zb_240_np	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4460306"	"4061023"	Podlahy	Podlaha	K_de_zb_240_pp	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4615044"	"4614223"	Podlahy	Podlaha	K_de_zb_280_np	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4620044"	"4368358"	Podlahy	Podlaha	K_de_zb_300_np	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4615467"	"4174575"	Podlahy	Podlaha	K_de_zb_300_pp	R	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4461335"	"4069132"	Podlahy	Podlaha	K_de_zb_300_pp_vs	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4384221"	"4283566"	Podlahy	Podlaha	K_de_zb_300_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4468350"	"4464881"	Podlahy	Podlaha	K_de_zb_420_pp	HL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4629656"	"4368076"	Podlahy	Podlaha	K_de_zb_440_np	STD	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4629489"	"4459891"	Podlahy	Podlaha	K_de_zb_440_pp	HL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4629581"	"4470225"	Podlahy	Podlaha	K_de_zb_440_pp vs	HL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4468266"	"4472507"	Podlahy	Podlaha	K_de_zb_500_pp	HL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4387281"	"4082114"	Podlahy	Podlaha	K_de_zb_550_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4468572"	"4469888"	Podlahy	Podlaha	K_de_zb_700_zd_vs	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4611393"	"4611594"	Podlahy	Podlaha	K_t_zb_1000_vs	TR	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4556887"	"4557013"	Podlahy	Podlaha	K_t_zb_1110_vs	TR	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4786808"	"4786782"	Podlahy	Podlaha	K_t_zb_300_vs	TR	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4555929"	"4556783"	Podlahy	Podlaha	K_t_zb_400_vs	TR	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4733662"	"4476018"	Podlahy	Podlaha	K_tr_zb_650_pp	TR	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4629838"	"4474951"	Podlahy	Podlaha	K_tr_zb_800_pp	TR	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4487561"	"4487553"	Podlahy	Podlaha	K_tr_zb_900_np	TR	ZB		
+TERN_1201_DSP_D11_SO01_ASR	"5527561"	"4878372"	Podlahy	Podlaha	pochozí úroveň	PDE	SKLADBA		Pochozí venkovní vrstva - nespecifikována
+TERN_1201_DSP_D11_SO01_ASR	"5541950"	"5849496"	Podlahy	Podlaha	Prkenná terasa	PDE	SKLADBA		Venkovní prkenná terasa
+TERN_1201_DSP_D11_SO01_ASR	"4869289"	"4870631"	Podlahy	Podlaha	Střecha_spádová vrstva	PDE	SKLADBA		Spádová venkovní vrstva - Beton, HI, XPS
+TERN_1201_DSP_D11_SO01_ASR	"5979482"	"5979444"	Podlahy	Podlaha	Terasa_1NP_odvodnění	PDE	SKLADBA		Spádová venkovní vrstva - Beton, HI, XPS
+TERN_1201_DSP_D144_SO01_ESI	"7169143"	"7169120"	Elektrická tělesa	Podlahový box (2019)	C-Podlahový box 8x230V	KABK	SIL		
+TERN_1201_DSP_D12_SO01_SKR	"4784100"	"4784102"	Podlahy	Podlahy 1	Podlahy 1	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4757682"	"4757684"	Podlahy	Podlahy 10	Podlahy 10				
+TERN_1201_DSP_D12_SO01_SKR	"4757986"	"4757988"	Podlahy	Podlahy 11	Podlahy 11				
+TERN_1201_DSP_D12_SO01_SKR	"4759021"	"4759023"	Podlahy	Podlahy 12	Podlahy 12				
+TERN_1201_DSP_D12_SO01_SKR	"4784135"	"4784137"	Podlahy	Podlahy 2	Podlahy 2	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4783407"	"4783409"	Podlahy	Podlahy 3	Podlahy 1	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4469946"	"4469948"	Podlahy	Podlahy 4	Podlahy 2	ZAKL	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4616370"	"4616372"	Podlahy	Podlahy 5	Podlahy 5	R	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4618356"	"4618358"	Podlahy	Podlahy 6	Podlahy 6				
+TERN_1201_DSP_D12_SO01_SKR	"4618711"	"4618713"	Podlahy	Podlahy 7	Podlahy 7	R	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4717512"	"4717514"	Podlahy	Podlahy 8	Podlahy 8	R	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4717940"	"4717942"	Podlahy	Podlahy 9	Podlahy 9				
+TERN_1201_DSP_D144_SO01_ESI	"6180633"	"7003795"	Osvětlení	Pohybové čidlo (2019)	Čidlo 360	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7009393"	"7012181"	Zařízení na přivolání ošetřovatelky	PP_Svítidlo	PP_svítidlo	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"7010697"	"7012145"	Zařízení na přivolání ošetřovatelky	PP_Tahové volací tlačítko	Tahové tlačítko	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"7012007"	"7012089"	Zařízení na přivolání ošetřovatelky	PP_Tlačítko potvrzovací	Tlačítko potvrzovací	KABK	ESL		
+TERN_1201_DSP_D11_SO01_ASR	"5010661"	"4555020"	Schodiště	Prefabrikované schodiště	Nášlapná vrstva - stěrka 1mm	VPO	SCH		
+TERN_1201_DSP_D144_SO01_ESI	"6989042"	"6993054"	Zabezpečovací zařízení	PZTS_magnetický kontakt	Magnetický kontakt-závrtný	KABK	ESL		Magnetický kontakt-závrtný
+TERN_1201_DSP_D144_SO01_ESI	"6991362"	"7003921"	Zabezpečovací zařízení	PZTS_stropní pohybový detektor	PZTS_stropní pohybový detektor	KABK	ESL		Detektor
+TERN_1201_DSP_D11_SO01_FAC	"8486"	"3335423"	Příčle obvodového pláště	Rectangular Mullion	"50x150mm"	LOP	SOUC		Hliníkový profil
+TERN_1201_DSP_D11_SO01_FAC	"3545304"	"3545068"	Příčle obvodového pláště	Rectangular Mullion	"50x250mm_parter"	LOP	SOUC		Hliníkový profil
+TERN_1201_DSP_D11_SO01_FAC	"3495645"	"3491236"	Příčle obvodového pláště	Rectangular Mullion	"50x350mm"	LOP	SOUC		Hliníkový profil + prodloužená přítlačná lišta
+TERN_1201_DSP_D11_SO01_FAC	"471182"	"3440933"	Příčle obvodového pláště	Rectangular Mullion	BA_50x200mm	LOP	SOUC		Hliníkový profil
+TERN_1201_DSP_D11_SO01_FAC	"3499624"	"3492734"	Příčle obvodového pláště	Rectangular Mullion	BA_50x75mm_structural	LOP	SOUC		Hliníkový profil - bez přítlačné lišty
+TERN_1201_DSP_D144_SO01_ESI	"7076656"	"7082225"	Požární poplachová zařízení	Reproduktor přisazený (2020)	Reproduktor přisazený (2020)	KABK	EPS		
+TERN_1201_DSP_D144_SO01_ESI	"7078019"	"7082510"	Požární poplachová zařízení	Reproduktor zvukový projektor 20W	Zvukový projektor 20W	KABK	EPS		
+TERN_1201_DSP_D147_SO01_SHZ	"1713074"	"1713256"	Elektrické vybavení	Rozvadec elektro	Rozvadec elektro				
+TERN_1201_DSP_D144_SO01_ESI	"5543181"	"6896430"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč  1000x2060x400	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6904812"	"6904925"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč  1000x2060x600	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6941845"	"6948741"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč  600x1200x250	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6941346"	"6892537"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč  800x2060x250	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6892323"	"6911313"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč  800x2060x400	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6904820"	"6905369"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč  800x2060x600	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6000727"	"7160010"	Elektrické vybavení	Rozvaděč_SIL	Rozvaděč přisazený 704x1055x155 (120M)	KABZ	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6948595"	"6948598"	Elektrické vybavení	Rozvaděč_SIL	Slučovací pole spinner  650x250x250	KABZ	ESL		
+TERN_1201_DSP_D143_SO01_VZT	"1495286"	"1495354"	Elektrické vybavení	Servopohon	Servopohon				Servopohon
+TERN_1201_DSP_D144_SO01_ESI	"6946733"	"6946852"	Elektrické vybavení	SK_datový rozvaděč	"21U - 1025x600x600"	KABZ	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6948451"	"6948199"	Elektrické vybavení	SK_datový rozvaděč	"42U - 1978x600x600"	KABZ	ESL		
+TERN_1201_DSP_D11_SO01_FAC	"1607240"	"3926209"	Střechy	Skloněné zasklení	GlazedRoof_AtrumCB	VOE	D		Karuselové dveře
+TERN_1201_DSP_D144_SO01_ESI	"6906035"	"6906223"	Elektrické vybavení	Skříně_SIL (2020)	CBS 1300x2128x419	KABZ	SIL		
+TERN_1201_DSP_D11_SO01_ASR	"5766113"	"5766056"	Elektrické vybavení	Skříně_SIL (2020)	DA 400kVA	GRAF			
+TERN_1201_DSP_D11_SO01_ASR	"5766209"	"5766055"	Elektrické vybavení	Skříně_SIL (2020)	DA 550kVA	GRAF			
+TERN_1201_DSP_D144_SO01_ESI	"672342"	"7003752"	Osvětlení	Spinace	č.1	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7199591"	"7199671"	Osvětlení	Spínače (2020)	č.5_IP				
+TERN_1201_DSP_D144_SO01_ESI	"7199581"	"7203380"	Osvětlení	Spínače (2020)	č.6				
+TERN_1201_DSP_D144_SO01_ESI	"7199595"	"7199765"	Osvětlení	Spínače (2020)	č.6+6_IP				
+TERN_1201_DSP_D144_SO01_ESI	"6184021"	"7002712"	Osvětlení	Spínače nástěnné (2019)	č.1	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6184027"	"7174578"	Osvětlení	Spínače nástěnné (2019)	č.1/0	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6184023"	"7202371"	Osvětlení	Spínače nástěnné (2019)	č.6				
+TERN_1201_DSP_D144_SO01_ESI	"6184025"	"7202162"	Osvětlení	Spínače nástěnné (2019)	č.7				
+TERN_1201_DSP_D141_SO01_ZTI	"1652720"	"2292075"	Instalační zařizovací předměty	Sprcha	sprcha, v. odpadu 0	TRBK	SK	S	Sprcha
+TERN_1201_DSP_D11_SO01_ASR	"4235426"	"4235428"	Instalační zařizovací předměty	Sprchový kout	Sprchová vanička 900x900	NEVYKAZOVAT			
+TERN_1201_DSP_D147_SO01_SHZ	"866459"	"1365546"	Rozstřikovače	Sprinkler stojící	REI45_Sprinkler_Stojici_1_2 68C K80	TRBK	PV		Standard Response Upright Sprinkler
+TERN_1201_DSP_D147_SO01_SHZ	"868229"	"1174780"	Rozstřikovače	Sprinkler visící	REI45_Sprinkler_Visici_1_2 68C K80	TRBK	PV		Standard Response Upright Sprinkler
+TERN_1201_DSP_D147_SO01_SHZ	"864944"	"1192985"	Rozstřikovače	Sprinkler visící s deflektorem	REI45_Sprinkler_Visici_1_2 68C K80 Podstrik	TRBK	PV		Standard Response Upright Sprinkler
+TERN_1201_DSP_D147_SO01_SHZ	"863420"	"1366298"	Rozstřikovače	Sprinkler visící s krycí rozetou	REI45_Sprinkler_Podhled_1_2 68C K80	TRBK	PV		Standard Response Upright Sprinkler
+TERN_1201_DSP_D11_SO01_ASR	"4895773"	"4895789"	Instalační zařizovací předměty	Střešní vtok-jednoduchý	Střešní vtok-jednoduchý	NEVYKAZOVAT			
+TERN_1201_DSP_D144_SO01_ESI	"5314637"	"7091911"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	B3 Indigo přisazené	KABK	SIL		"1x 20 W, 2750 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"5314635"	"7137106"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	C1 Hermes H	KABK	SIL		"1x 40 W, 5500 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"7150665"	"7150802"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	C2 Hermes H	KABK	SIL		"1x 40 W, 5500 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"7151190"	"7151180"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	D2	KABK	SIL		"1x 20 W, 2750 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"7151585"	"7151575"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	D3	KABK	SIL		"1x 20 W, 2750 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"7149524"	"7149530"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	N3C	KABK	SIL		"1x 3 W, 325 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"7091937"	"7152027"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	N6C	KABK	SIL		"1x 3 W, 325 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"7091935"	"7091941"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	N7C	KABK	SIL		"1x 3 W, 325 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"5314631"	"7091982"	Osvětlovací tělesa	Světlo_čtverec_uni (2020)	N7P	KABK	SIL		"1x 3 W, 325 lm, Ra 80, 4000K"
+TERN_1201_DSP_D144_SO01_ESI	"6102768"	"7091274"	Osvětlovací tělesa	Světlo_MALE_čtverec_uni (2019)	A1 Office Back Gen 2	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7091864"	"7091866"	Osvětlovací tělesa	Světlo_MALE_kruhové_uni (2019)	A2 Downlight vestavný	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7151616"	"7151604"	Osvětlovací tělesa	Světlo_MALE_kruhové_uni (2019)	A3	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7091869"	"7091868"	Osvětlovací tělesa	Světlo_MALE_kruhové_uni (2019)	B1 Downlight přisazený	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"6330388"	"7091501"	Osvětlovací tělesa	Světlo_MALE_kruhové_uni (2019)	B2 Downlight přisazený	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7150929"	"7150918"	Osvětlovací tělesa	Světlo_MALE_kruhové_uni (2019)	D1	KABK	SIL		
+TERN_1201_DSP_D11_SO01_FAC	"3788980"	"3788444"	Panely obvodového pláště	System Panel	BA_LOP_Panel_parter	LOP	SOUC		tep. i. + hliníkový porvch
+TERN_1201_DSP_D11_SO01_FAC	"3462895"	"3653690"	Panely obvodového pláště	System Panel	BA_LOP_Panel_terrace	LOP	SOUC		tep. i. + hliníkový porvch
+TERN_1201_DSP_D11_SO01_FAC	"3491718"	"3335414"	Panely obvodového pláště	System Panel	BA-Glazed_ext	LOP	SOUC	"04"	Číre zasklení
+TERN_1201_DSP_D11_SO01_FAC	"3613825"	"3545060"	Panely obvodového pláště	System Panel	BA-Glazed_ext - PARTER	LOP	SOUC		Číre zasklení
+TERN_1201_DSP_D11_SO01_FAC	"3758062"	"3757876"	Panely obvodového pláště	System Panel	BA-Glazed_ext_opaque	LOP	SOUC		
+TERN_1201_DSP_D11_SO01_FAC	"4043919"	"3552227"	Panely obvodového pláště	System Panel	BA-Glazed_ext_opaque_PARTER	LOP	SOUC		Opakní zasklení
+TERN_1201_DSP_D11_SO01_FAC	"3457621"	"3440922"	Panely obvodového pláště	System Panel	BA-Glazed_structural	LOP	SOUC		Čiré zasklení
+TERN_1201_DSP_D11_SO01_FAC	"3486868"	"3440930"	Panely obvodového pláště	System Panel	BA-Glazed_structural - opaque	LOP	SOUC		Opakní zasklení
+TERN_1201_DSP_D11_SO01_FAC	"3618877"	"3492725"	Panely obvodového pláště	System Panel	BA-Glazed_structural - opaque 2-7NP	LOP	SOUC		Opakní zasklení
+TERN_1201_DSP_D11_SO01_FAC	"12611"	"3196568"	Panely obvodového pláště	System Panel	Glazed				
+TERN_1201_DSP_D11_SO01_FAC	"2828083"	"3926210"	Panely obvodového pláště	System Panel	SkylightCB	VOE	D		Karuselové dveře
+TERN_1201_DSP_D11_SO01_FAC	"35764"	"3440915"	Panely obvodového pláště	System Panel	Solid				
+TERN_1201_DSP_D11_SO01_FAC	"94972"	"3105966"	Panely obvodového pláště	System Panel	Wall				
+TERN_1201_DSP_D141_SO01_ZTI	"960723"	"2938739"	Instalační zařizovací předměty	TOPWET_Terasová vpust TWT(E) 110 S	TWT 110 BIT S svislé provedení, manžeta z asfaltového pásu			DVORNÍ VTOK DN100	Vpusť
+TERN_1201_DSP_D11_SO01_FAC	"3618772"	"3617341"	Příčle obvodového pláště	Trapezoid Corner Mullion	"300x150mm_parter"	LOP	SOUC		Bezrámový lepený spoj
+TERN_1201_DSP_D11_SO01_ASR	"5580648"	"5580692"	Truhlářské výrobky	Trubka	KB_zách_system	TZKO	OV		
+TERN_1201_DSP_D11_SO01_ASR	"5668273"	"5668351"	Instalační zařizovací předměty	Turniket	Turniket	TZKO	OV		Turniket
+TERN_1201_DSP_D141_SO01_ZTI	"1652221"	"2292944"	Instalační zařizovací předměty	Umyvadlo	Umyvadlo se stojánkovou baterií	TRBK	SK	U	
+TERN_1201_DSP_D11_SO01_ASR	"4012081"	"5662858"	Instalační zařizovací předměty	Umyvadlo hranaté	"400x310"	GRAF			
+TERN_1201_DSP_D11_SO01_ASR	"4012083"	"4012103"	Instalační zařizovací předměty	Umyvadlo hranaté	"600x470"	NEVYKAZOVAT			
+TERN_1201_DSP_D11_SO01_ASR	"4014457"	"4014473"	Instalační zařizovací předměty	Urinál	Urinál	NEVYKAZOVAT			
+TERN_1201_DSP_D147_SO01_SHZ	"1718307"	"1718448"	Elektrické vybavení	Ustredna poruchovych stavu	Ustredna poruchovych stavu				
+TERN_1201_DSP_D11_SO01_FAC	"3658746"	"3654621"	Příčle obvodového pláště	V Corner Mullion	"150x150mm_terrace"	LOP	SOUC		
+TERN_1201_DSP_D11_SO01_FAC	"3783614"	"3784139"	Podhledy	Vícevrstvý podhled	BA_Ceiling_sofit	POD	SKLADBA		Kovový panel na roštu
+TERN_1201_DSP_D11_SO01_FAC	"3783947"	"3783567"	Podhledy	Vícevrstvý podhled	BA_Ceiling_sofit + tep i	POD	SKLADBA		
+TERN_1201_DSP_D11_SO01_ASR	"4745837"	"4744368"	Podhledy	Vícevrstvý podhled	Podhled IZOLET_120mm	PDI	SKLADBA		Podhled Izolet tl. 120mm
+TERN_1201_DSP_D11_SO01_ASR	"313142"	"4304215"	Podhledy	Vícevrstvý podhled	SDK podhled 100 mm	POD	SKLADBA		Sádrokartonový podhled tl. 100 mm
+TERN_1201_DSP_D11_SO01_ASR	"5583969"	"5583395"	Podhledy	Vícevrstvý podhled	SDK podhled 80 EI 90 S/Z	POD	SKLADBA		Sádrokartonový podhled tl. 100 mm
+TERN_1201_DSP_D11_SO01_ASR	"5619276"	"5619279"	Dveře	vrata sekční	vrata 2700x3000	VOE	VOO	D.42	
+TERN_1201_DSP_D11_SO01_ASR	"5006217"	"5006654"	Instalační zařizovací předměty	Výlevka závěsná	Výleka závěsná	NEVYKAZOVAT			Výlevka závěsná keramická
+TERN_1201_DSP_D141_SO01_ZTI	"2328370"	"2363556"	Instalační zařizovací předměty	Výlevka_předstěnový instalační systém_vodovod_zadní připojení	Výlevka_předstěnový instalační systém_vodovod_zadní připojení	TRBK	SK	VL	Výlevka Duravit kat.č. 0050011000_Předstěnový instalační systém_nástěnná baterie, Zuna, 150 mm, s ramínkem plochým rovným 250 mm, chrom
+TERN_1201_DSP_D144_SO01_ESI	"1805730"	"7169287"	Elektrická tělesa	Vývod 230V	Vývod 230V	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"7203344"	"7203347"	Elektrická tělesa	Vývod 230V	Vývod 230V OSV	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"7167603"	"7167606"	Elektrická tělesa	Vývod 230V	Vývod 230V turniket	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"6092900"	"7171941"	Elektrická tělesa	Vývod 230V	Vývod 230V VZT	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"2702985"	"7170173"	Elektrická tělesa	Vývod 230V	Vývod 230V Žaluzie	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"5534145"	"7169230"	Elektrická tělesa	Vývod 400V	Vývod 400V	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"7162782"	"7162765"	Elektrická tělesa	Vývod 400V	Vývod 400V čerpadlo	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"6092384"	"7169473"	Elektrická tělesa	Vývod 400V	Vývod 400V Vrata	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"5533247"	"7162629"	Elektrická tělesa	Vývod 400V	Vývod 400V Výtah	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"6092529"	"7172274"	Elektrická tělesa	Vývod 400V	Vývod 400V VZT	KABK	SIL		Vývod
+TERN_1201_DSP_D144_SO01_ESI	"7191953"	"7174792"	Elektrická tělesa	Vývod DATA	Vývod DATA				Vývod
+TERN_1201_DSP_D11_SO01_ASR	"4011056"	"4011072"	Instalační zařizovací předměty	WC závěsné	WC závěsné	NEVYKAZOVAT			
+TERN_1201_DSP_D141_SO01_ZTI	"1651783"	"2292730"	Instalační zařizovací předměty	WC_předstěnový instalační systém_vodovod_horní připojení	WC_předstěnový instalační systém_vodovod_horní připojení	TRBK	SK	WC	Předstěnový instalační systém
+TERN_1201_DSP_D11_SO01_FAC	"3697114"	"3696755"	Zábradlí	Zábradlí	Glass_Panel_TERRACE	PS	SOUC		Prosklené zábradlí
+TERN_1201_DSP_D11_SO01_ASR	"5577859"	"5577597"	Zábradlí	Zábradlí	Madlo střecha	TZKO	ZV		
+TERN_1201_DSP_D11_SO01_ASR	"3960450"	"4565946"	Zábradlí	Zábradlí	Madlo, v. 900 mm	TZKO	ZV		
+TERN_1201_DSP_D11_SO01_ASR	"25223"	"4604980"	Zábradlí	Zábradlí	Zábradlí ocelové, svislé sloupky, dřevěné madlo, v.1000 mm	TZKO	ZV		
+TERN_1201_DSP_D11_SO01_ASR	"5233819"	"4059363"	Stěny	Základní stěna	"1_Beton_zdivo_100"	STI	PT		Zdivo z betonových tvárnic tl. 100 mm
+TERN_1201_DSP_D11_SO01_ASR	"4433902"	"4059151"	Stěny	Základní stěna	"1_Beton_zdivo_150"	STI	BZ		Zdivo z betonových tvárnic tl. 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"4433910"	"4212907"	Stěny	Základní stěna	"1_Beton_zdivo_200"	STI	PT		Zdivo z betonových tvárnic tl. 200 mm
+TERN_1201_DSP_D11_SO01_ASR	"3960059"	"4060086"	Stěny	Základní stěna	"2_SDK_100"	PDI	SKLADBA		Sádrokartonová příčka tl. 100 mm
+TERN_1201_DSP_D11_SO01_ASR	"3972197"	"4121226"	Stěny	Základní stěna	"2_SDK_150"	STI	SKLADBA		Sádrokartonová příčka tl. 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"4015133"	"4021452"	Stěny	Základní stěna	"2_SDK_200"	STI	SKLADBA		Sádrokartonová příčka tl. 200 mm
+TERN_1201_DSP_D11_SO01_ASR	"4059483"	"4064709"	Stěny	Základní stěna	"2_SDK_250"	STI	SKLADBA		Sádrokartonová příčka tl. 250 mm
+TERN_1201_DSP_D11_SO01_ASR	"5652442"	"5652743"	Stěny	Základní stěna	"2_SDK_50 - předstěna"	STI	SKLADBA		Sádrokartonová příčka tl. 250 mm
+TERN_1201_DSP_D11_SO01_ASR	"5729102"	"5729020"	Stěny	Základní stěna	"3_250_XPS"	STE	SKLADBA		Extrudovaný polystyren tl. 80 mm
+TERN_1201_DSP_D11_SO01_ASR	"5359384"	"5359487"	Stěny	Základní stěna	"3_80_EPS"	STE	SKLADBA		Expandovaný polystyren tl. 80 mm
+TERN_1201_DSP_D11_SO01_ASR	"5622846"	"5622848"	Stěny	Základní stěna	"3_80_XPS"	STE	SKLADBA		Extrudovaný polystyren tl. 80 mm
+TERN_1201_DSP_D11_SO01_ASR	"5358669"	"5358630"	Stěny	Základní stěna	"3_KZS_160_EPS"	STE	SKLADBA		Kontaktní zateplovací systém tl. 160 mm, expandovaný polystyren
+TERN_1201_DSP_D11_SO01_ASR	"4905273"	"4905556"	Stěny	Základní stěna	"3_minerální_vata_140"	PDE	SKLADBA		Kontaktní zateplovací systém tl. 140 mm, minerální vata
+TERN_1201_DSP_D11_SO01_ASR	"5586039"	"5585765"	Stěny	Základní stěna	"4_Zámečnická stěna_100"	TZKO	ZV		Zámečnická stěna tl. 100 mm
+TERN_1201_DSP_D11_SO01_ASR	"5614867"	"4097145"	Stěny	Základní stěna	"5_Prosklena_pricka_150"	STI	BZ		Prosklená příčka tl. 150 mm
+TERN_1201_DSP_D11_SO01_FAC	"4049153"	"3687819"	Stěny	Základní stěna	BA_EXT_100 MIN I. + PLASTER_Shadowgap	STE	SKLADBA		Fasádní zateplovací systém 100 mm + plech
+TERN_1201_DSP_D11_SO01_FAC	"3330431"	"3332498"	Stěny	Základní stěna	BA_EXT_200 MIN I. + PLASTER	STE	SKLADBA	"09"	Fasádní zateplovací systém 200 mm + ext. omítka
+TERN_1201_DSP_D11_SO01_FAC	"4145803"	"3331915"	Stěny	Základní stěna	BA_EXT_200 MIN I. + PLASTER_DARK	STE	SKLADBA	"09"	Fasádní zateplovací systém 200 mm + ext. omítka
+TERN_1201_DSP_D11_SO01_FAC	"3841316"	"3738576"	Stěny	Základní stěna	BA_EXT_200 MIN I. + Zastena	STE	SKLADBA		Fasádní zateplovací systém 200 mm + kovový perforovaný panel na roštu
+TERN_1201_DSP_D11_SO01_FAC	"4066379"	"3738486"	Stěny	Základní stěna	BA_EXT_250 MIN I. + Zastena	STE	SKLADBA		Fasádní zateplovací systém 225 mm + kovový perforovaný panel na roštu
+TERN_1201_DSP_D11_SO01_FAC	"3688897"	"3333166"	Stěny	Základní stěna	BA_EXT_290 MIN I. + PLASTER	STE	SKLADBA	"09"	Fasádní zateplovací systém 265 mm + ext. omítka
+TERN_1201_DSP_D11_SO01_FAC	"3893802"	"3894370"	Stěny	Základní stěna	BA_EXT_440 MIN I. + PLASTER_terrace corner	STE	SKLADBA		Fasádní zateplovací systém 200 mm
+TERN_1201_DSP_D11_SO01_FAC	"1360385"	"3632224"	Stěny	Základní stěna	BA_EXT_EPS200	STE	SKLADBA		Fasádní zateplovací systém 200 mm + ext. omítka
+TERN_1201_DSP_D11_SO01_FAC	"3694936"	"3631596"	Stěny	Základní stěna	BA_EXT_TEP I. 200 + GRC	STE	SKLADBA		Fasádní zateplovací systém 200 mm + vz. m 100 mm. + sklovláknobeton 13 mm
+TERN_1201_DSP_D11_SO01_FAC	"3904490"	"3631538"	Stěny	Základní stěna	BA_EXT_TEP I. 200 + oplechovani_dilatace	STE	SKLADBA		TEP IZOLACE OPLECHOVANI
+TERN_1201_DSP_D11_SO01_FAC	"3853419"	"3850970"	Stěny	Základní stěna	BA_EXT_terace 2	LOP	SOUC		TEP IZOLACE + ALUCOBOND
+TERN_1201_DSP_D11_SO01_FAC	"3695878"	"3695761"	Stěny	Základní stěna	BA_EXT_terace attic	STE	SOUC		TEP IZOLACE + ALUCOBOND
+TERN_1201_DSP_D11_SO01_FAC	"3848016"	"3635855"	Stěny	Základní stěna	BA_garage wall	STE	SKLADBA	"02"	
+TERN_1201_DSP_D11_SO01_ASR	"4900515"	"4901326"	Stěny	Základní stěna	H.I. atika_primar	PDE	SKLADBA		Hydroizolace, asfaltový pás
+TERN_1201_DSP_D11_SO01_ASR	"5023220"	"5023346"	Stěny	Základní stěna	IZOLET_120 mm	STI	SKLADBA		Zateplení stropu suterénu, Izolet 120 mm
+TERN_1201_DSP_D12_SO01_SKR	"4558920"	"4023708"	Stěny	Základní stěna	K_st_zb_180_np	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4564783"	"4688912"	Stěny	Základní stěna	K_st_zb_180_pp	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4384052"	"4223398"	Stěny	Základní stěna	K_st_zb_200_ate	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4384053"	"4000340"	Stěny	Základní stěna	K_st_zb_200_np	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4788978"	"4777142"	Stěny	Základní stěna	K_st_zb_200_np2_ati	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4558917"	"4558877"	Stěny	Základní stěna	K_st_zb_240_np	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4460715"	"4199227"	Stěny	Základní stěna	K_st_zb_240_pp	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4715486"	"4271972"	Stěny	Základní stěna	K_st_zb_250_ate	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4387287"	"3999534"	Stěny	Základní stěna	K_st_zb_250_np	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4788982"	"4776911"	Stěny	Základní stěna	K_st_zb_250_np2_ati	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4384072"	"4041544"	Stěny	Základní stěna	K_st_zb_250_pp	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4387395"	"4133031"	Stěny	Základní stěna	K_st_zb_250_pp_vs	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4794624"	"4776219"	Stěny	Základní stěna	K_st_zb_250_pp2_ati	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4384223"	"4047614"	Stěny	Základní stěna	K_st_zb_300_pp_vs	KST	ZB		
+TERN_1201_DSP_D12_SO01_SKR	"4387397"	"4047609"	Stěny	Základní stěna	K_st_zb_500_pp_vs	KST	ZB		
+TERN_1201_DSP_D11_SO01_ASR	"5235676"	"5235864"	Stěny	Základní stěna	Pomocná_stěna_dveře 200	NEVYKAZOVAT			
+TERN_1201_DSP_D11_SO01_ASR	"5347016"	"4590491"	Stěny	Základní stěna	Pomocná_stěna_dveře 240	NEVYKAZOVAT			
+TERN_1201_DSP_D11_SO01_ASR	"4581205"	"4581334"	Stěny	Základní stěna	Pomocná_stěna_dveře 250	NEVYKAZOVAT			
+TERN_1201_DSP_D11_SO01_ASR	"4954330"	"4954394"	Stěny	Základní stěna	Prosklená_příčka_100	PS	SYS		
+TERN_1201_DSP_D11_SO01_ASR	"4767020"	"3978448"	Stěny	Základní stěna	SDK příčka, tl 150mm, pož. odolnost EI90	STI	SKLADBA	K.13	Sádrokartonová příčka tl. 150 mm s pož. odolností EI90
+TERN_1201_DSP_D11_SO01_ASR	"4767272"	"3973510"	Stěny	Základní stěna	SDK příčka, tl. 100mm, bez požadavku na požární odolnost	STI	SKLADBA	K.01	Sádrokartonová příčka tl. 100 mm
+TERN_1201_DSP_D11_SO01_ASR	"4767207"	"3972461"	Stěny	Základní stěna	SDK příčka, tl.150mm, bez požadavku na požární odolnost	STI	SKLADBA	K.02	Sádrokartonová příčka tl. 150 mm
+TERN_1201_DSP_D11_SO01_ASR	"4767344"	"3974440"	Stěny	Základní stěna	SDK šachetní stěna, tl.120mm, pož. odolnost EI90	STI	SKLADBA	K.52	Sádrokartonová příčka tl. 120 mm s požární odolností EI90
+TERN_1201_DSP_D11_SO01_ASR	"4917778"	"4915547"	Stěny	Základní stěna	T.I. sokl střech	STE	SKLADBA		Skladba tepelné izolace v soklové části atiky tl. 200mm
+TERN_1201_DSP_D11_SO01_ASR	"4914071"	"4914259"	Stěny	Základní stěna	T.I. sokl_atika	STE	SKLADBA		Skladba tepelné izolace v soklové části atiky tl. 120mm
+TERN_1201_DSP_D11_SO01_FAC	"3758352"	"3758563"	Stěny	Základní stěna	Wall-Ext_200_Zastena	STE	SKLADBA	"06"	Ocelová kce. + plný kovový panel na roštu
+TERN_1201_DSP_D144_SO01_ESI	"1845226"	"7003766"	Elektrická tělesa	Zasuvka_230V_MOMP	"230V"	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"3390047"	"7012529"	Elektrická tělesa	Zasuvka_DATA	"2x_RJ45"	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6998578"	"6952140"	Elektrická tělesa	Zasuvka_DATA nástěnná (2019)	"1xRJ45 na povrch"	KABK	ESL		
+TERN_1201_DSP_D144_SO01_ESI	"6998580"	"6954281"	Elektrická tělesa	Zasuvka_DATA nástěnná (2019)	"2xRJ45 na povrch"	KABK	ESL		
+TERN_1201_DSP_D11_SO01_ASR	"5461775"	"5462224"	Obecné modely	Zavora	ZÁVORA	TZKO	OV		ZÁVORA
+TERN_1201_DSP_D11_SO01_ASR	"5463032"	"5463070"	Obecné modely	Zavora_sloupek autorizace	TERMINÁL PARKING	TZKO	OV		TERMINÁL PARKING
+TERN_1201_DSP_D144_SO01_ESI	"5341013"	"7002654"	Elektrická tělesa	ZS_230V nástěnná (2019)	Zásuvka IP20	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"5997969"	"7203208"	Elektrická tělesa	ZS_230V nástěnná (2019)	Zásuvka IP44				
+TERN_1201_DSP_D144_SO01_ESI	"7164292"	"7165622"	Elektrická tělesa	ZS_400V v2 (2019)	Zásuvka 1x16A/400V 5P	KABK	SIL		
+TERN_1201_DSP_D144_SO01_ESI	"7003712"	"7003714"	Elektrická tělesa	ZS_skříně	ZS_skříně	KABK	SIL		
